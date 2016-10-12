@@ -1,1 +1,2 @@
 information service
+information service domain master
